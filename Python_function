@@ -1,3 +1,12 @@
 .index() #Used for arrays or list
 .capitalize() #For turning the first character into uppercase
 .replace() #For replacing characters
+.clear() #For emptying a dictionary
+.copy() #For copying a dictionary
+.get() #For returning a specific value
+.item() #For returning a list of key-values
+.keys() #For returning a list of keys
+.values() #For returning a list of values
+.pop() #For removing and returning the values of a specific key
+.update() #For updating specific key-values
+.setdefault() #for returning the values of specified keys
