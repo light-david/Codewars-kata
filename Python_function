@@ -1,2 +1,3 @@
-.index()
-.capitalize()
+.index() #Used for arrays or list
+.capitalize() #For turning the first character into uppercase
+.replace() #For replacing characters
