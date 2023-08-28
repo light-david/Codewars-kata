@@ -5,3 +5,6 @@ def correct(s):
     s = s.replace('0','O')
     s = s.replace('1','I')
     return s
+
+def correct(string):
+    return string.translate(str.maketrans("501", "SOI"))
